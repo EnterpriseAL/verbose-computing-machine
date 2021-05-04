@@ -22,7 +22,8 @@
     },
     "de": {
         "moderation": {
-            "mute_with_time": "{user} has been muted for {duration}."
+            "mute_with_time": "{user} has been muted for {duration}.",
+            "mute": "{user} has been muted."
         }
     }
 }
