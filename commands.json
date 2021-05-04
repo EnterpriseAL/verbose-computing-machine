@@ -19,5 +19,10 @@
             "mute": "{user} has been muted.",
             "mute_with_time": "{user} has been muted for {duration}."
         }
+    },
+    "de": {
+        "moderation": {
+            "mute_with_time": "{user} has been muted for {duration}."
+        }
     }
 }
