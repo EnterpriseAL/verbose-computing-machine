@@ -3,5 +3,10 @@
         "commands": {
             "level": "you're {level}."
         }
+    },
+    "ar": {
+        "moderation": {
+            "warn": "{user} has been warned."
+        }
     }
 }
